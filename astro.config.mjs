@@ -14,8 +14,8 @@ export default defineConfig({
     ],
   },
 
-  site: 'https://makerspace.github.io',
-  base: '/makerspace',
+  site: 'https://Python123532.github.io',
+  base: '/GreenhouseTESt',
   build: {
     format: 'directory',
   }
